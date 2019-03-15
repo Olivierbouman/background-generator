@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Olivierbouman/background-generator/issues"
   },
-  "homepage": "https://github.com/Olivierbouman/background-generator#readme"
+  "homepage": "https://github.com/Olivierbouman/background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
